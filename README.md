@@ -1,7 +1,6 @@
 # Network Traffic Analysis with Wireshark
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 Network traffic analysis is a crucial skill in cybersecurity. Wireshark is a popular network protocol analyzer used to capture and analyze network traffic. This tutorial will guide you through installing, capturing, and analyzing network traffic using Wireshark.
 
