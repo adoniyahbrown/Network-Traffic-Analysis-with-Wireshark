@@ -1,25 +1,40 @@
-# Network Traffic Analysis with Wireshark
+# Network Traffic Analysis Using Wireshark
 
-## Objective
+Objective:
 
-Network traffic analysis is a crucial skill in cybersecurity. Wireshark is a popular network protocol analyzer used to capture and analyze network traffic. This tutorial will guide you through installing, capturing, and analyzing network traffic using Wireshark.
 
-### Skills Learned
+Analyze live network traffic to identify anomalies and potential security threats, and gain expertise in
+recognizing attack patterns and troubleshooting network performance.
 
-- **Packet Capture and Filtering**: Gained expertise in capturing live network traffic and applying precise filters to isolate specific protocols, IP addresses, and conversations for detailed analysis.
-  
-- **Protocol Analysis and Troubleshooting**: Developed the ability to dissect and interpret various network protocols (e.g., TCP, UDP, DNS, HTTP) to identify abnormal traffic patterns, performance issues, and security threats.
-  
-- **Traffic Pattern Recognition**: Learned to use Wireshark’s statistical tools and I/O graphs to detect traffic anomalies, identify potential malicious activity, and troubleshoot network performance bottlenecks.
 
-### Tools Used
+Tools Used:
 
--Packet Capture (PCAP)
--Display Filters
--Protocol Decoding
--Statistics Tools
--Expert Information
--Follow Streams
+
+● Wireshark
+
+
+● Kali Linux
+
+
+Methodology:
+1. Captured live network traffic using Wireshark and applied filters to isolate specific protocols (e.g., TCP,
+UDP, DNS, HTTP).
+2. Analyzed packet data to identify suspicious activities, such as port scans and unusual data
+transmissions.
+3. Created detailed reports summarizing traffic patterns and potential vulnerabilities.
+
+   
+Challenges Faced & Solutions:
+
+
+● Challenge: Filtering out large amounts of irrelevant traffic data to focus on threats.
+● Solution: Used precise filtering techniques in Wireshark to hone in on key packets and traffic
+types.
+
+Outcome:
+
+Improved my ability to detect and analyze potential security threats, and gained a deeper understanding of how
+various network protocols operate.
 
 ## Steps
 Step 1: Install Wireshark
